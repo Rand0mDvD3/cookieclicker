@@ -1,5 +1,3 @@
-# cookieclicker
-
 
 Original game here: http://orteil.dashnet.org/cookieclicker/
 
